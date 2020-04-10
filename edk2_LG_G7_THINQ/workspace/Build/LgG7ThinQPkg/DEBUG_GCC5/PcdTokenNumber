@@ -1,0 +1,6 @@
+PcdTokenNumber: 
+('PcdPlatformBootTimeOut', 'gEfiMdePkgTokenSpaceGuid') : 1
+('PcdVpdBaseAddress64', 'gEfiMdeModulePkgTokenSpaceGuid') : 3
+('PcdNvStoreDefaultValueBuffer', 'gEfiMdeModulePkgTokenSpaceGuid') : 4
+('PcdSetNvStoreDefaultId', 'gEfiMdeModulePkgTokenSpaceGuid') : 5
+('PcdTestKeyUsed', 'gEfiMdeModulePkgTokenSpaceGuid') : 2

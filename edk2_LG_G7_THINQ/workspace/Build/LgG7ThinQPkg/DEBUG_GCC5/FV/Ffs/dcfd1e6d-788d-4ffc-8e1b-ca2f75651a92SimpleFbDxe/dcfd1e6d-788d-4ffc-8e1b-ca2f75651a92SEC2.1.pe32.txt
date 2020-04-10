@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/FV/Ffs/dcfd1e6d-788d-4ffc-8e1b-ca2f75651a92SimpleFbDxe/dcfd1e6d-788d-4ffc-8e1b-ca2f75651a92SEC2.1.pe32 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/LgG7ThinQPkg/SimpleFbDxe/SimpleFbDxe/OUTPUT/SimpleFbDxe.efi

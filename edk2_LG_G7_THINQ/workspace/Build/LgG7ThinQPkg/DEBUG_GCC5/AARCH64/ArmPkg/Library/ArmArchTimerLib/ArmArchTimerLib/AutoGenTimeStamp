@@ -1,0 +1,16 @@
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Include/Chipset/ArmV7.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/MdePkg/Include/Library/BaseLib.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Include/Chipset/AArch64Mmu.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/ArmArchTimerLib/ArmArchTimerLib.inf
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/MdePkg/Include/AArch64/ProcessorBind.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Include/Library/ArmGenericTimerCounterLib.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmArchTimerLib/ArmArchTimerLib/DEBUG/AutoGen.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/ArmArchTimerLib/ArmArchTimerLib.c
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/MdePkg/Include/Uefi/UefiBaseType.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Include/Chipset/AArch64.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/MdePkg/Include/Base.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Include/Library/ArmLib.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Include/Chipset/ArmV7Mmu.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/MdePkg/Include/Library/PcdLib.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/MdePkg/Include/Library/TimerLib.h
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/MdePkg/Include/Library/DebugLib.h

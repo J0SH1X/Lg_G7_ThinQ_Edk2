@@ -1,0 +1,6 @@
+ArmPlatformPrePiUniCore (Fixed Flash Address, BaseAddress=0x00d0009160, EntryPoint=0x00d00103e8)
+(GUID=D959E387-7B91-452C-90E0-A1DBAC90DDB8 .textbaseaddress=0x00d0009240 .databaseaddress=0x00d00124a0)
+(IMAGE=/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPlatformPkg/PrePi/PeiUniCore/DEBUG/ArmPlatformPrePiUniCore.efi)
+
+
+

@@ -1,0 +1,915 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memcpy.obj)
+                              /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memcpy)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memset.obj)
+                              /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memset)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib(BaseStackCheckGcc.obj)
+                              /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (__stack_chk_fail)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Disk/UnicodeCollation/EnglishDxe/EnglishDxe/OUTPUT/EnglishDxe.lib(AutoGen.obj)
+                              DriverEntryPoint.obj (symbol from plugin) (ProcessLibraryConstructorList)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Disk/UnicodeCollation/EnglishDxe/EnglishDxe/OUTPUT/EnglishDxe.lib(UnicodeCollationEng.obj)
+                              AutoGen.obj (symbol from plugin) (InitializeUnicodeCollationEng)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuDeadLoop)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuBreakpoint)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib(DebugLib.obj)
+                              AutoGen.obj (symbol from plugin) (BaseDebugLibSerialPortConstructor)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiRuntimeServicesTableLibConstructor)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiBootServicesTableLibConstructor)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiLibConstructor)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              AutoGen.obj (symbol from plugin) (HobLibConstructor)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(MemLibGuid.obj)
+                              UefiLib.obj (symbol from plugin) (CompareGuid)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(ZeroMemWrapper.obj)
+                              UefiLib.obj (symbol from plugin) (ZeroMem)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMemWrapper.obj)
+                              DebugLib.obj (symbol from plugin) (SetMem)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMemWrapper.obj)
+                              UefiLib.obj (symbol from plugin) (CopyMem)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+                              ZeroMemWrapper.obj (symbol from plugin) (InternalMemZeroMem)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+                              MemLibGuid.obj (symbol from plugin) (InternalMemCopyMem)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+                              MemLibGuid.obj (symbol from plugin) (InternalMemCompareGuid)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem64Wrapper.obj)
+                              SetMemWrapper.obj (symbol from plugin) (SetMem64)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              UefiLib.obj (symbol from plugin) (StrSize)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              UefiLib.obj (symbol from plugin) (ReadUnaligned24)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              Unaligned.obj (symbol from plugin) (RShiftU64)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              Unaligned.obj (symbol from plugin) (LShiftU64)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              String.obj (symbol from plugin) (StrDecimalToUintnS)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              LShiftU64.obj (symbol from plugin) (InternalMathLShiftU64)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes32)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes16)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              SafeString.obj (symbol from plugin) (MultU64x32)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              SafeString.obj (symbol from plugin) (DivU64x32)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              DebugLib.obj (symbol from plugin) (GetDebugPrintErrorLevel)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              DebugLib.obj (symbol from plugin) (AsciiVSPrint)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              PrintLib.obj (symbol from plugin) (BasePrintLibConvertValueToString)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/LgG7ThinQPkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib(FrameBufferSerialPortLib.obj)
+                              DebugLib.obj (symbol from plugin) (SerialPortInitialize)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              UefiLib.obj (symbol from plugin) (AllocatePool)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              UefiLib.obj (symbol from plugin) (DevicePathType)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              DevicePathUtilities.obj (symbol from plugin) (GetDevicePathSize)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertDeviceNodeToText)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertTextToDeviceNode)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              DevicePathFromText.obj (symbol from plugin) (SwapBytes64)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              PrintLibInternal.obj (symbol from plugin) (DivU64x32Remainder)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmGetInterruptState)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmEnableInterrupts)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib(ArmCacheMaintenanceLib.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (WriteBackInvalidateDataCacheRange)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLib.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmDataCacheLineLength)
+/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmInvalidateDataCacheEntryByMVA)
+
+Discarded input sections
+
+ .text          0x0000000000000000       0x10 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .bss           0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .text          0x0000000000000000        0x0 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .rodata.StrnLenS.str1.1
+                0x0000000000000000       0x6a /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.StrnLenS
+                0x0000000000000000       0x70 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.__memset
+                0x0000000000000000       0x1c /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2d /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2d /tmp/ccJOyFT2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJOyFT2.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccGNf4v5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccGNf4v5.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/cc3PKUR3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc3PKUR3.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccOp6Pj7.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccOp6Pj7.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/cc5XUj42.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc5XUj42.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccnOPuQ4.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccnOPuQ4.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccfWdCG5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccfWdCG5.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccxl7bL5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxl7bL5.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/cc6hm666.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc6hm666.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccl98HH5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccl98HH5.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccbs2Xd6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccbs2Xd6.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccacXPz4.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccacXPz4.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccL97XE3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccL97XE3.debug.temp.o
+ .debug_info    0x0000000000000000      0x22c /tmp/ccZTUFL3.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/ccZTUFL3.debug.temp.o
+ .debug_line    0x0000000000000000      0x1aa /tmp/ccZTUFL3.debug.temp.o
+ .debug_str     0x0000000000000000      0x4be /tmp/ccZTUFL3.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccZTUFL3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZTUFL3.debug.temp.o
+ .debug_info    0x0000000000000000      0x26d /tmp/cc0J2Fu3.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xd5 /tmp/cc0J2Fu3.debug.temp.o
+ .debug_line    0x0000000000000000      0x1a9 /tmp/cc0J2Fu3.debug.temp.o
+ .debug_str     0x0000000000000000      0x4ca /tmp/cc0J2Fu3.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/cc0J2Fu3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc0J2Fu3.debug.temp.o
+ .debug_info    0x0000000000000000      0x243 /tmp/ccmkoIW5.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc7 /tmp/ccmkoIW5.debug.temp.o
+ .debug_line    0x0000000000000000      0x1aa /tmp/ccmkoIW5.debug.temp.o
+ .debug_str     0x0000000000000000      0x4d6 /tmp/ccmkoIW5.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccmkoIW5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccmkoIW5.debug.temp.o
+ .debug_info    0x0000000000000000      0x238 /tmp/ccRi9xs6.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/ccRi9xs6.debug.temp.o
+ .debug_line    0x0000000000000000      0x1ab /tmp/ccRi9xs6.debug.temp.o
+ .debug_str     0x0000000000000000      0x4c6 /tmp/ccRi9xs6.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccRi9xs6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccRi9xs6.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccMVWRr6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccMVWRr6.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccvAAf26.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccvAAf26.debug.temp.o
+ .debug_info    0x0000000000000000      0x27c /tmp/ccJ5qjz5.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/ccJ5qjz5.debug.temp.o
+ .debug_line    0x0000000000000000      0x181 /tmp/ccJ5qjz5.debug.temp.o
+ .debug_str     0x0000000000000000      0x59e /tmp/ccJ5qjz5.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccJ5qjz5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJ5qjz5.debug.temp.o
+ .debug_info    0x0000000000000000      0x27c /tmp/ccQkvWg7.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/ccQkvWg7.debug.temp.o
+ .debug_line    0x0000000000000000      0x181 /tmp/ccQkvWg7.debug.temp.o
+ .debug_str     0x0000000000000000      0x59e /tmp/ccQkvWg7.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccQkvWg7.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQkvWg7.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccxMcRl3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxMcRl3.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccoCMmo6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoCMmo6.debug.temp.o
+ .debug_info    0x0000000000000000      0x27c /tmp/ccHuQAi6.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xcf /tmp/ccHuQAi6.debug.temp.o
+ .debug_line    0x0000000000000000      0x183 /tmp/ccHuQAi6.debug.temp.o
+ .debug_str     0x0000000000000000      0x5ab /tmp/ccHuQAi6.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccHuQAi6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccHuQAi6.debug.temp.o
+ .debug_info    0x0000000000000000      0x264 /tmp/cczQ87k4.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/cczQ87k4.debug.temp.o
+ .debug_line    0x0000000000000000      0x183 /tmp/cczQ87k4.debug.temp.o
+ .debug_str     0x0000000000000000      0x594 /tmp/cczQ87k4.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/cczQ87k4.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cczQ87k4.debug.temp.o
+ .debug_info    0x0000000000000000      0x27c /tmp/cco3FyP5.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xcf /tmp/cco3FyP5.debug.temp.o
+ .debug_line    0x0000000000000000      0x182 /tmp/cco3FyP5.debug.temp.o
+ .debug_str     0x0000000000000000      0x5ab /tmp/cco3FyP5.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/cco3FyP5.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cco3FyP5.debug.temp.o
+ .debug_info    0x0000000000000000      0x270 /tmp/ccQeVC65.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/ccQeVC65.debug.temp.o
+ .debug_line    0x0000000000000000      0x181 /tmp/ccQeVC65.debug.temp.o
+ .debug_str     0x0000000000000000      0x59b /tmp/ccQeVC65.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccQeVC65.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQeVC65.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccQGifj4.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccQGifj4.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccSWLCk7.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccSWLCk7.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccUupFg6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccUupFg6.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccRNP6S3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccRNP6S3.debug.temp.o
+ .debug_info    0x0000000000000000     0x1e91 /tmp/cc8r5NP6.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x242 /tmp/cc8r5NP6.debug.temp.o
+ .debug_line    0x0000000000000000      0x373 /tmp/cc8r5NP6.debug.temp.o
+ .debug_str     0x0000000000000000     0x193f /tmp/cc8r5NP6.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/cc8r5NP6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8r5NP6.debug.temp.o
+ .debug_info    0x0000000000000000     0x1e7f /tmp/ccpJcLU6.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x240 /tmp/ccpJcLU6.debug.temp.o
+ .debug_line    0x0000000000000000      0x3b7 /tmp/ccpJcLU6.debug.temp.o
+ .debug_str     0x0000000000000000     0x1b08 /tmp/ccpJcLU6.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccpJcLU6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpJcLU6.debug.temp.o
+ .debug_info    0x0000000000000000     0x1baf /tmp/ccDWBjc3.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x1fe /tmp/ccDWBjc3.debug.temp.o
+ .debug_line    0x0000000000000000      0x3b5 /tmp/ccDWBjc3.debug.temp.o
+ .debug_str     0x0000000000000000     0x193e /tmp/ccDWBjc3.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccDWBjc3.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccDWBjc3.debug.temp.o
+ .debug_info    0x0000000000000000     0x3e07 /tmp/ccVvuz84.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x2ca /tmp/ccVvuz84.debug.temp.o
+ .debug_line    0x0000000000000000      0x42b /tmp/ccVvuz84.debug.temp.o
+ .debug_str     0x0000000000000000     0x2752 /tmp/ccVvuz84.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccVvuz84.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccVvuz84.debug.temp.o
+ .debug_info    0x0000000000000000     0x468b /tmp/ccZzJFM6.debug.temp.o
+ .debug_abbrev  0x0000000000000000      0x2b0 /tmp/ccZzJFM6.debug.temp.o
+ .debug_line    0x0000000000000000      0x41f /tmp/ccZzJFM6.debug.temp.o
+ .debug_str     0x0000000000000000     0x3077 /tmp/ccZzJFM6.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccZzJFM6.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccZzJFM6.debug.temp.o
+ .debug_info    0x0000000000000000      0x264 /tmp/ccoTKjT2.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xc0 /tmp/ccoTKjT2.debug.temp.o
+ .debug_line    0x0000000000000000      0x183 /tmp/ccoTKjT2.debug.temp.o
+ .debug_str     0x0000000000000000      0x594 /tmp/ccoTKjT2.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccoTKjT2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccoTKjT2.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/cczTVLH4.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cczTVLH4.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccHJ6VY2.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccHJ6VY2.debug.temp.o
+ .comment       0x0000000000000000       0x2d /tmp/ccJ6v6K4.debug.temp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJ6v6K4.debug.temp.o
+ .text          0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .bss           0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .text          0x0000000000000000      0x200 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .data          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .bss           0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .text          0x0000000000000000      0x218 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .data          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .bss           0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .data          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+ .bss           0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+ .text          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .data          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .bss           0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadMidr
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetFiqState
+                0x0000000000000000       0x10 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpacr
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteAuxCr
+                0x0000000000000000       0x28 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadAuxCr
+                0x0000000000000000       0x28 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTTBR0
+                0x0000000000000000       0x34 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTTBR0BaseAddress
+                0x0000000000000000       0x30 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTCR
+                0x0000000000000000       0x34 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTCR
+                0x0000000000000000       0x34 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetMAIR
+                0x0000000000000000       0x34 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetMAIR
+                0x0000000000000000       0x34 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmUpdateTranslationTableEntry
+                0x0000000000000000       0x40 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmInvalidateTlb
+                0x0000000000000000       0x38 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCptr
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteScr
+                0x0000000000000000        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteMVBar
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallWFE
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallSEV
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadCpuActlr
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpuActlr
+                0x0000000000000000       0x10 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadSctlr
+                0x0000000000000000       0x30 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteSctlr
+                0x0000000000000000       0x30 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetPhysicalAddressBits
+                0x0000000000000000       0x24 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .data          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .bss           0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmIsMpCore
+                0x0000000000000000       0x14 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableAsynchronousAbort
+                0x0000000000000000        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAsynchronousAbort
+                0x0000000000000000        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableIrq
+                0x0000000000000000        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableIrq
+                0x0000000000000000        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableFiq
+                0x0000000000000000        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableFiq
+                0x0000000000000000        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAllExceptions
+                0x0000000000000000        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCCSIDR
+                0x0000000000000000       0x10 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCLIDR
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .data          0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .bss           0x0000000000000000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCache
+                0x0000000000000000       0x10 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableMmu
+                0x0000000000000000       0x88 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableMmu
+                0x0000000000000000       0x74 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableCachesAndMmu
+                0x0000000000000000       0x6c /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmMmuEnabled
+                0x0000000000000000       0x34 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableDataCache
+                0x0000000000000000       0x68 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableDataCache
+                0x0000000000000000       0x68 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableInstructionCache
+                0x0000000000000000       0x68 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableInstructionCache
+                0x0000000000000000       0x68 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableAlignmentCheck
+                0x0000000000000000       0x58 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableAlignmentCheck
+                0x0000000000000000       0x68 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableStackAlignmentCheck
+                0x0000000000000000       0x58 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableStackAlignmentCheck
+                0x0000000000000000       0x68 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableBranchPrediction
+                0x0000000000000000        0x4 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableBranchPrediction
+                0x0000000000000000        0x4 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.AArch64AllDataCachesOperation
+                0x0000000000000000       0xa8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDataMemoryBarrier
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInstructionSynchronizationBarrier
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteVBar
+                0x0000000000000000       0x34 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadVBar
+                0x0000000000000000       0x30 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableVFP
+                0x0000000000000000       0x64 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCallWFI
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadMpidr
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadTpidrurw
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteTpidrurw
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmIsArchTimerImplemented
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdPfr0
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdPfr1
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteHcr
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadHcr
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCurrentEL
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCntHctl
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteCntHctl
+                0x0000000000000000        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+Speicherkonfiguration
+
+Name             Ursprung           Länge             Attribute
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+START GROUP
+LOAD /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+LOAD /tmp/ccJOyFT2.debug.temp.o
+LOAD /tmp/ccGNf4v5.debug.temp.o
+LOAD /tmp/cc3PKUR3.debug.temp.o
+LOAD /tmp/ccOp6Pj7.debug.temp.o
+LOAD /tmp/cc5XUj42.debug.temp.o
+LOAD /tmp/ccnOPuQ4.debug.temp.o
+LOAD /tmp/ccfWdCG5.debug.temp.o
+LOAD /tmp/ccxl7bL5.debug.temp.o
+LOAD /tmp/cc6hm666.debug.temp.o
+LOAD /tmp/ccl98HH5.debug.temp.o
+LOAD /tmp/ccbs2Xd6.debug.temp.o
+LOAD /tmp/ccacXPz4.debug.temp.o
+LOAD /tmp/ccL97XE3.debug.temp.o
+LOAD /tmp/ccZTUFL3.debug.temp.o
+LOAD /tmp/cc0J2Fu3.debug.temp.o
+LOAD /tmp/ccmkoIW5.debug.temp.o
+LOAD /tmp/ccRi9xs6.debug.temp.o
+LOAD /tmp/ccMVWRr6.debug.temp.o
+LOAD /tmp/ccvAAf26.debug.temp.o
+LOAD /tmp/ccJ5qjz5.debug.temp.o
+LOAD /tmp/ccQkvWg7.debug.temp.o
+LOAD /tmp/ccxMcRl3.debug.temp.o
+LOAD /tmp/ccoCMmo6.debug.temp.o
+LOAD /tmp/ccHuQAi6.debug.temp.o
+LOAD /tmp/cczQ87k4.debug.temp.o
+LOAD /tmp/cco3FyP5.debug.temp.o
+LOAD /tmp/ccQeVC65.debug.temp.o
+LOAD /tmp/ccQGifj4.debug.temp.o
+LOAD /tmp/ccSWLCk7.debug.temp.o
+LOAD /tmp/ccUupFg6.debug.temp.o
+LOAD /tmp/ccRNP6S3.debug.temp.o
+LOAD /tmp/cc8r5NP6.debug.temp.o
+LOAD /tmp/ccpJcLU6.debug.temp.o
+LOAD /tmp/ccDWBjc3.debug.temp.o
+LOAD /tmp/ccVvuz84.debug.temp.o
+LOAD /tmp/ccZzJFM6.debug.temp.o
+LOAD /tmp/ccoTKjT2.debug.temp.o
+LOAD /tmp/cczTVLH4.debug.temp.o
+LOAD /tmp/ccHJ6VY2.debug.temp.o
+LOAD /tmp/ccJ6v6K4.debug.temp.o
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/LgG7ThinQPkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib
+LOAD /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Disk/UnicodeCollation/EnglishDxe/EnglishDxe/OUTPUT/EnglishDxe.lib
+END GROUP
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.gnu.version_d  0x0000000000000228        0x0
+ .gnu.version_d
+                0x0000000000000228        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version    0x0000000000000228        0x0
+ .gnu.version   0x0000000000000228        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version_r  0x0000000000000228        0x0
+ .gnu.version_r
+                0x0000000000000228        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.text           0x0000000000001000     0x2638
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.DebugAssertEnabled
+                0x0000000000001000        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.DebugPrintLevelEnabled.constprop.0
+                0x0000000000001008        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x0000000000001010       0x34 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.AsciiStrnLenS
+                0x0000000000001044       0x3c /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.DebugPrintEnabled
+                0x0000000000001080        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.EngStrToFat
+                0x0000000000001088       0x64 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.EngFatToStr
+                0x00000000000010ec       0x2c /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.EngMetaiMatch
+                0x0000000000001118      0x1b8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.EngStrUpr
+                0x00000000000012d0       0x28 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.EngStrLwr
+                0x00000000000012f8       0x28 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.EngStriColl
+                0x0000000000001320       0x88 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.BaseDebugLibSerialPortConstructor
+                0x00000000000013a8       0x84 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.FbConFlush
+                0x000000000000142c       0x54 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.SerialPortWrite
+                0x0000000000001480      0x400 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.DebugAssert
+                0x0000000000001880       0x7c /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.CompareGuid.constprop.0
+                0x00000000000018fc       0x44 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.ReadUnaligned16
+                0x0000000000001940       0x5c /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.0
+                0x000000000000199c      0xc1c /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.BasePrintLibSPrint.constprop.0
+                0x00000000000025b8       0x98 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.AsciiSPrint.constprop.0
+                0x0000000000002650       0xa4 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.AsciiStrLen
+                0x00000000000026f4       0x74 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.DebugPrint.constprop.0
+                0x0000000000002768       0xb4 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .text.__stack_chk_fail
+                0x000000000000281c       0x34 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+                0x000000000000281c                __stack_chk_fail
+ .text._ModuleEntryPoint
+                0x0000000000002850      0x31c /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+                0x0000000000002850                _ModuleEntryPoint
+ .text.memcpy   0x0000000000002b6c       0x20 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+                0x0000000000002b6c                memcpy
+ *fill*         0x0000000000002b8c       0x14 
+ .text          0x0000000000002ba0       0x20 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+                0x0000000000002ba0                InternalMemCompareGuid
+ .text.ArmCacheInfo
+                0x0000000000002bc0        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x0000000000002bc0                ArmCacheInfo
+ .text.ArmGetInterruptState
+                0x0000000000002bc8       0x10 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x0000000000002bc8                ArmGetInterruptState
+ .text.ArmEnableInterrupts
+                0x0000000000002bd8        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x0000000000002bd8                ArmEnableInterrupts
+ .text.ArmDisableInterrupts
+                0x0000000000002be4        0xc /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x0000000000002be4                ArmDisableInterrupts
+ .text.ArmCleanInvalidateDataCacheEntryByMVA
+                0x0000000000002bf0        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x0000000000002bf0                ArmCleanInvalidateDataCacheEntryByMVA
+ .text.ArmDataSynchronizationBarrier
+                0x0000000000002bf8        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x0000000000002bf8                ArmDataSynchronizationBarrier
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.DebugAssert.str1.1
+                0x0000000000002c00       0x23 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .rodata.CompareGuid.constprop.0.str1.1
+                0x0000000000002c23       0x6d /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .rodata.ReadUnaligned16.str1.1
+                0x0000000000002c90       0x61 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.0.str1.1
+                0x0000000000002cf1      0x182 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ *fill*         0x0000000000002e73        0x1 
+ .rodata.BasePrintLibSPrintMarker.constprop.0
+                0x0000000000002e74       0x5e /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .rodata.AsciiStrLen.str1.1
+                0x0000000000002ed2       0x7b /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .rodata.__stack_chk_fail.str1.1
+                0x0000000000002f4d       0x2e /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x0000000000002f7b      0x308 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000000003283      0x22b /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+                                        0x23c (size before relaxing)
+ .rodata.mHexStr
+                0x00000000000034ae       0x10 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .rodata.mOtherChars
+                0x00000000000034be       0x1d /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ *fill*         0x00000000000034db        0x5 
+ .rodata.mStatusString
+                0x00000000000034e0      0x138 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ *(.got .got.*)
+ .got           0x0000000000003618        0x8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+                0x0000000000003618                _GLOBAL_OFFSET_TABLE_
+ .got.plt       0x0000000000003620       0x18 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000003638        0x0
+ .plt           0x0000000000003638        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.data           0x0000000000004000      0x710
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.ro   0x0000000000004000        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data.Unicode2Eng
+                0x0000000000004000       0x38 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .data.UnicodeEng
+                0x0000000000004038       0x38 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .data.__stack_chk_guard
+                0x0000000000004070        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+                0x0000000000004070                __stack_chk_guard
+ .data.font5x12
+                0x0000000000004078      0x300 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .data.gEfiHobListGuid
+                0x0000000000004378       0x10 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .data.gEfiUnicodeCollation2ProtocolGuid
+                0x0000000000004388       0x10 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .data.gEfiUnicodeCollationProtocolGuid
+                0x0000000000004398       0x10 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ *(.bss .bss.*)
+ .bss.gBS       0x00000000000043a8        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x00000000000043b0        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.gRT       0x00000000000043b8        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.gST       0x00000000000043c0        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.mEngInfoMap
+                0x00000000000043c8      0x100 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.mEngLowerMap
+                0x00000000000044c8      0x100 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.mEngUpperMap
+                0x00000000000045c8      0x100 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.mHandle   0x00000000000046c8        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.mHobList  0x00000000000046d0        0x8 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.m_Color   0x00000000000046d8       0x10 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.m_Initialized
+                0x00000000000046e8        0x1 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ *fill*         0x00000000000046e9        0x7 
+ .bss.m_MaxPosition
+                0x00000000000046f0       0x10 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .bss.m_Position
+                0x0000000000004700       0x10 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+
+.dynbss         0x0000000000004710        0x0
+ .dynbss        0x0000000000004710        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x0000000000004710      0x4f8
+ *(.rela .rela.*)
+ .rela.got      0x0000000000004710        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.plt      0x0000000000004710        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.bss      0x0000000000004710        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.rel.ro
+                0x0000000000004710        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.ifunc    0x0000000000004710        0x0 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.Unicode2Eng
+                0x0000000000004710       0xa8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.UnicodeEng
+                0x00000000000047b8       0xa8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.rodata.mStatusString
+                0x0000000000004860      0x3a8 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000004c08       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000004c08       0x24 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+OUTPUT(/home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Disk/UnicodeCollation/EnglishDxe/EnglishDxe/DEBUG/EnglishDxe.dll elf64-littleaarch64)
+
+.debug_info     0x0000000000000000    0x149fa
+ .debug_info    0x0000000000000000     0x1c53 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .debug_info    0x0000000000001c53      0x289 /tmp/ccJOyFT2.debug.temp.o
+                0x0000000000001c53                memcpy.c.1e1e787a
+ .debug_info    0x0000000000001edc      0x23a /tmp/ccGNf4v5.debug.temp.o
+                0x0000000000001edc                memset.c.cbb55926
+ .debug_info    0x0000000000002116     0x1b08 /tmp/cc3PKUR3.debug.temp.o
+                0x0000000000002116                DriverEntryPoint.c.602fee3c
+ .debug_info    0x0000000000003c1e      0x239 /tmp/ccOp6Pj7.debug.temp.o
+                0x0000000000003c1e                BaseStackCheckGcc.c.7c8230a6
+ .debug_info    0x0000000000003e57     0x1e69 /tmp/cc5XUj42.debug.temp.o
+                0x0000000000003e57                AutoGen.c.48b11726
+ .debug_info    0x0000000000005cc0     0x1ea1 /tmp/ccnOPuQ4.debug.temp.o
+                0x0000000000005cc0                UnicodeCollationEng.c.34fb04fe
+ .debug_info    0x0000000000007b61      0x271 /tmp/ccfWdCG5.debug.temp.o
+                0x0000000000007b61                CpuDeadLoop.c.b22f2262
+ .debug_info    0x0000000000007dd2      0x497 /tmp/ccxl7bL5.debug.temp.o
+                0x0000000000007dd2                DebugLib.c.6a384b5e
+ .debug_info    0x0000000000008269     0x1963 /tmp/cc6hm666.debug.temp.o
+                0x0000000000008269                UefiRuntimeServicesTableLib.c.d5c0fac4
+ .debug_info    0x0000000000009bcc     0x1992 /tmp/ccl98HH5.debug.temp.o
+                0x0000000000009bcc                UefiBootServicesTableLib.c.b2c21aa1
+ .debug_info    0x000000000000b55e     0x2896 /tmp/ccbs2Xd6.debug.temp.o
+                0x000000000000b55e                UefiLib.c.a867074c
+ .debug_info    0x000000000000ddf4     0x23af /tmp/ccacXPz4.debug.temp.o
+                0x000000000000ddf4                HobLib.c.8a381ba7
+ .debug_info    0x00000000000101a3      0x2cf /tmp/ccL97XE3.debug.temp.o
+                0x00000000000101a3                MemLibGuid.c.01726354
+ .debug_info    0x0000000000010472      0xafd /tmp/ccMVWRr6.debug.temp.o
+                0x0000000000010472                String.c.8fee0045
+ .debug_info    0x0000000000010f6f      0x3de /tmp/ccvAAf26.debug.temp.o
+                0x0000000000010f6f                Unaligned.c.007f7ff3
+ .debug_info    0x000000000001134d      0xe6f /tmp/ccxMcRl3.debug.temp.o
+                0x000000000001134d                SafeString.c.e0d6f670
+ .debug_info    0x00000000000121bc      0x4dd /tmp/ccoCMmo6.debug.temp.o
+                0x00000000000121bc                Math64.c.083e34f2
+ .debug_info    0x0000000000012699      0x23f /tmp/ccQGifj4.debug.temp.o
+                0x0000000000012699                BaseDebugPrintErrorLevelLib.c.4c0da260
+ .debug_info    0x00000000000128d8      0x7cd /tmp/ccSWLCk7.debug.temp.o
+                0x00000000000128d8                PrintLib.c.8c5ec511
+ .debug_info    0x00000000000130a5      0x824 /tmp/ccUupFg6.debug.temp.o
+                0x00000000000130a5                PrintLibInternal.c.4595abda
+ .debug_info    0x00000000000138c9      0x89c /tmp/ccRNP6S3.debug.temp.o
+                0x00000000000138c9                FrameBufferSerialPortLib.c.7984acb7
+ .debug_info    0x0000000000014165      0x286 /tmp/cczTVLH4.debug.temp.o
+                0x0000000000014165                DivU64x32Remainder.c.fd6219e5
+ .debug_info    0x00000000000143eb      0x345 /tmp/ccHJ6VY2.debug.temp.o
+                0x00000000000143eb                ArmCacheMaintenanceLib.c.52724bd9
+ .debug_info    0x0000000000014730      0x2ca /tmp/ccJ6v6K4.debug.temp.o
+                0x0000000000014730                ArmLib.c.3f59dbc1
+
+.debug_abbrev   0x0000000000000000     0x23ed
+ .debug_abbrev  0x0000000000000000      0x274 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000274       0xfd /tmp/ccJOyFT2.debug.temp.o
+ .debug_abbrev  0x0000000000000371       0xcf /tmp/ccGNf4v5.debug.temp.o
+ .debug_abbrev  0x0000000000000440      0x1e9 /tmp/cc3PKUR3.debug.temp.o
+ .debug_abbrev  0x0000000000000629       0xd6 /tmp/ccOp6Pj7.debug.temp.o
+ .debug_abbrev  0x00000000000006ff      0x236 /tmp/cc5XUj42.debug.temp.o
+ .debug_abbrev  0x0000000000000935      0x271 /tmp/ccnOPuQ4.debug.temp.o
+ .debug_abbrev  0x0000000000000ba6       0xc5 /tmp/ccfWdCG5.debug.temp.o
+ .debug_abbrev  0x0000000000000c6b      0x165 /tmp/ccxl7bL5.debug.temp.o
+ .debug_abbrev  0x0000000000000dd0      0x1c3 /tmp/cc6hm666.debug.temp.o
+ .debug_abbrev  0x0000000000000f93      0x1dd /tmp/ccl98HH5.debug.temp.o
+ .debug_abbrev  0x0000000000001170      0x267 /tmp/ccbs2Xd6.debug.temp.o
+ .debug_abbrev  0x00000000000013d7      0x25a /tmp/ccacXPz4.debug.temp.o
+ .debug_abbrev  0x0000000000001631       0xdd /tmp/ccL97XE3.debug.temp.o
+ .debug_abbrev  0x000000000000170e      0x135 /tmp/ccMVWRr6.debug.temp.o
+ .debug_abbrev  0x0000000000001843       0xd8 /tmp/ccvAAf26.debug.temp.o
+ .debug_abbrev  0x000000000000191b      0x12d /tmp/ccxMcRl3.debug.temp.o
+ .debug_abbrev  0x0000000000001a48      0x108 /tmp/ccoCMmo6.debug.temp.o
+ .debug_abbrev  0x0000000000001b50       0xd5 /tmp/ccQGifj4.debug.temp.o
+ .debug_abbrev  0x0000000000001c25      0x150 /tmp/ccSWLCk7.debug.temp.o
+ .debug_abbrev  0x0000000000001d75      0x181 /tmp/ccUupFg6.debug.temp.o
+ .debug_abbrev  0x0000000000001ef6      0x224 /tmp/ccRNP6S3.debug.temp.o
+ .debug_abbrev  0x000000000000211a       0xc2 /tmp/cczTVLH4.debug.temp.o
+ .debug_abbrev  0x00000000000021dc      0x101 /tmp/ccHJ6VY2.debug.temp.o
+ .debug_abbrev  0x00000000000022dd      0x110 /tmp/ccJ6v6K4.debug.temp.o
+
+.debug_loc      0x0000000000000000     0x4bb6
+ .debug_loc     0x0000000000000000     0x4bb6 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x1e0
+ .debug_aranges
+                0x0000000000000000      0x1e0 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000      0x7e0
+ .debug_ranges  0x0000000000000000      0x7e0 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x51cb
+ .debug_line    0x0000000000000000     0x1a80 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+ .debug_line    0x0000000000001a80      0x1a8 /tmp/ccJOyFT2.debug.temp.o
+ .debug_line    0x0000000000001c28      0x1a8 /tmp/ccGNf4v5.debug.temp.o
+ .debug_line    0x0000000000001dd0      0x392 /tmp/cc3PKUR3.debug.temp.o
+ .debug_line    0x0000000000002162      0x1a7 /tmp/ccOp6Pj7.debug.temp.o
+ .debug_line    0x0000000000002309      0x33b /tmp/cc5XUj42.debug.temp.o
+ .debug_line    0x0000000000002644      0x3b8 /tmp/ccnOPuQ4.debug.temp.o
+ .debug_line    0x00000000000029fc      0x183 /tmp/ccfWdCG5.debug.temp.o
+ .debug_line    0x0000000000002b7f      0x24d /tmp/ccxl7bL5.debug.temp.o
+ .debug_line    0x0000000000002dcc      0x32f /tmp/cc6hm666.debug.temp.o
+ .debug_line    0x00000000000030fb      0x37b /tmp/ccl98HH5.debug.temp.o
+ .debug_line    0x0000000000003476      0x3b8 /tmp/ccbs2Xd6.debug.temp.o
+ .debug_line    0x000000000000382e      0x40c /tmp/ccacXPz4.debug.temp.o
+ .debug_line    0x0000000000003c3a      0x1aa /tmp/ccL97XE3.debug.temp.o
+ .debug_line    0x0000000000003de4      0x17e /tmp/ccMVWRr6.debug.temp.o
+ .debug_line    0x0000000000003f62      0x185 /tmp/ccvAAf26.debug.temp.o
+ .debug_line    0x00000000000040e7      0x182 /tmp/ccxMcRl3.debug.temp.o
+ .debug_line    0x0000000000004269      0x17e /tmp/ccoCMmo6.debug.temp.o
+ .debug_line    0x00000000000043e7      0x1cf /tmp/ccQGifj4.debug.temp.o
+ .debug_line    0x00000000000045b6      0x19d /tmp/ccSWLCk7.debug.temp.o
+ .debug_line    0x0000000000004753      0x1bb /tmp/ccUupFg6.debug.temp.o
+ .debug_line    0x000000000000490e      0x3b3 /tmp/ccRNP6S3.debug.temp.o
+ .debug_line    0x0000000000004cc1      0x18a /tmp/cczTVLH4.debug.temp.o
+ .debug_line    0x0000000000004e4b      0x201 /tmp/ccHJ6VY2.debug.temp.o
+ .debug_line    0x000000000000504c      0x17f /tmp/ccJ6v6K4.debug.temp.o
+
+.debug_str      0x0000000000000000     0x53e5
+ .debug_str     0x0000000000000000      0x2fb /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o
+                                        0x314 (size before relaxing)
+ .debug_str     0x00000000000002fb      0x445 /tmp/ccJOyFT2.debug.temp.o
+                                        0x4b4 (size before relaxing)
+ .debug_str     0x0000000000000740       0x5a /tmp/ccGNf4v5.debug.temp.o
+                                        0x4a8 (size before relaxing)
+ .debug_str     0x000000000000079a     0x14db /tmp/cc3PKUR3.debug.temp.o
+                                       0x17f6 (size before relaxing)
+ .debug_str     0x0000000000001c75      0x13d /tmp/ccOp6Pj7.debug.temp.o
+                                        0x515 (size before relaxing)
+ .debug_str     0x0000000000001db2      0x835 /tmp/cc5XUj42.debug.temp.o
+                                       0x1f2b (size before relaxing)
+ .debug_str     0x00000000000025e7      0x253 /tmp/ccnOPuQ4.debug.temp.o
+                                       0x1cc7 (size before relaxing)
+ .debug_str     0x000000000000283a       0xd2 /tmp/ccfWdCG5.debug.temp.o
+                                        0x59a (size before relaxing)
+ .debug_str     0x000000000000290c      0x273 /tmp/ccxl7bL5.debug.temp.o
+                                        0x709 (size before relaxing)
+ .debug_str     0x0000000000002b7f      0x139 /tmp/cc6hm666.debug.temp.o
+                                       0x16d5 (size before relaxing)
+ .debug_str     0x0000000000002cb8      0x12a /tmp/ccl98HH5.debug.temp.o
+                                       0x16d3 (size before relaxing)
+ .debug_str     0x0000000000002de2      0x78e /tmp/ccbs2Xd6.debug.temp.o
+                                       0x2209 (size before relaxing)
+ .debug_str     0x0000000000003570      0x634 /tmp/ccacXPz4.debug.temp.o
+                                       0x1d79 (size before relaxing)
+ .debug_str     0x0000000000003ba4      0x139 /tmp/ccL97XE3.debug.temp.o
+                                        0x513 (size before relaxing)
+ .debug_str     0x0000000000003cdd      0x33a /tmp/ccMVWRr6.debug.temp.o
+                                        0x97b (size before relaxing)
+ .debug_str     0x0000000000004017       0xfa /tmp/ccvAAf26.debug.temp.o
+                                        0x641 (size before relaxing)
+ .debug_str     0x0000000000004111      0x2d8 /tmp/ccxMcRl3.debug.temp.o
+                                        0x959 (size before relaxing)
+ .debug_str     0x00000000000043e9      0x1a6 /tmp/ccoCMmo6.debug.temp.o
+                                        0x718 (size before relaxing)
+ .debug_str     0x000000000000458f      0x142 /tmp/ccQGifj4.debug.temp.o
+                                        0x546 (size before relaxing)
+ .debug_str     0x00000000000046d1      0x26c /tmp/ccSWLCk7.debug.temp.o
+                                        0x730 (size before relaxing)
+ .debug_str     0x000000000000493d      0x21e /tmp/ccUupFg6.debug.temp.o
+                                        0x864 (size before relaxing)
+ .debug_str     0x0000000000004b5b      0x4ca /tmp/ccRNP6S3.debug.temp.o
+                                        0xbf8 (size before relaxing)
+ .debug_str     0x0000000000005025       0x62 /tmp/cczTVLH4.debug.temp.o
+                                        0x5b7 (size before relaxing)
+ .debug_str     0x0000000000005087      0x208 /tmp/ccHJ6VY2.debug.temp.o
+                                        0x610 (size before relaxing)
+ .debug_str     0x000000000000528f      0x156 /tmp/ccJ6v6K4.debug.temp.o
+                                        0x52c (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x470
+ .debug_frame   0x0000000000000000      0x470 /tmp/EnglishDxe.dll.3YFiz6.ltrans0.ltrans.o

@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_RAW -o /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/FV/Ffs/7E374E25-8E01-4FEE-87F2-390C23C606CDLgG7ThinQAcpiTables/7E374E25-8E01-4FEE-87F2-390C23C606CDSEC1.1.raw /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/LgG7ThinQPkg/AcpiTables/AcpiTables/OUTPUT/Dbg2.acpi

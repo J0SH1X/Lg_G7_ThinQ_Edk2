@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_PE32 -o /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/FV/Ffs/F9D88642-0737-49bc-81B5-6889CD57D9EASmbiosDxe/F9D88642-0737-49bc-81B5-6889CD57D9EASEC2.1.pe32 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/SmbiosDxe/SmbiosDxe/OUTPUT/SmbiosDxe.efi

@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_DXE_DEPEX -o /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/FV/Ffs/3299a266-15f0-4346-8318-716336736d3eFVMAIN/3299a266-15f0-4346-8318-716336736d3eSEC1.dpx /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/LgG7ThinQPkg/Binary/UsbDeviceDxe/UsbDeviceDxe.depex

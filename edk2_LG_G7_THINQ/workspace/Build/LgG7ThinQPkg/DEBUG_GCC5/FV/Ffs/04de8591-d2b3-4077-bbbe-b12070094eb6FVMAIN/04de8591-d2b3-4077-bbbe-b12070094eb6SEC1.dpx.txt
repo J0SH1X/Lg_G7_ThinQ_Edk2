@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_DXE_DEPEX -o /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/FV/Ffs/04de8591-d2b3-4077-bbbe-b12070094eb6FVMAIN/04de8591-d2b3-4077-bbbe-b12070094eb6SEC1.dpx /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/LgG7ThinQPkg/Binary/I2C/I2C.depex

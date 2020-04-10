@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_PE32 -o /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/FV/Ffs/4C6E0267-C77D-410D-8100-1495911A989DMetronomeDxe/4C6E0267-C77D-410D-8100-1495911A989DSEC2.1.pe32 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/EmbeddedPkg/MetronomeDxe/MetronomeDxe/OUTPUT/MetronomeDxe.efi

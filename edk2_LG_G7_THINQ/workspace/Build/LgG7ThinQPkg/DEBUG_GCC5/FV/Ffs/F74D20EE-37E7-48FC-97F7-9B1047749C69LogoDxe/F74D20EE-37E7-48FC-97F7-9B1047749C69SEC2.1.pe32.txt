@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_PE32 -o /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/FV/Ffs/F74D20EE-37E7-48FC-97F7-9B1047749C69LogoDxe/F74D20EE-37E7-48FC-97F7-9B1047749C69SEC2.1.pe32 /home/j0sh1x/Lg_G7_ThinQ_Edk2/edk2_LG_G7_THINQ/workspace/Build/LgG7ThinQPkg/DEBUG_GCC5/AARCH64/LgG7ThinQPkg/Drivers/LogoDxe/LogoDxe/OUTPUT/LogoDxe.efi

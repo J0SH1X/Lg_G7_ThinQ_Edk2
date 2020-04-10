@@ -1,10 +1,10 @@
-Attempt to create a minimal EDK2 for Lg G7 ThinQ - dipper.
+Attempt to create a minimal EDK2 for Lg G7 ThinQ - judyln.
 
 Based on zhuowei's port for Pixel3XL (https://github.com/Pixel3Dev/edk2-pixel3/).
 
 ## Status 
 
-Boots to efi shell. Need to implement ufs now.
+Boots to efi shell. UFS works now but reboots before anything gets executed.
 
 ## Building
 Tested on Ubuntu 18.04.

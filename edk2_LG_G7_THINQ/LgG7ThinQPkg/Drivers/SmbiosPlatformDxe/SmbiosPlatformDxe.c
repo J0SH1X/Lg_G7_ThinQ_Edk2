@@ -32,13 +32,13 @@
   __DATE__"\0"                         /* BiosReleaseDate */
 
 #define TYPE1_STRINGS                                   \
-  "Google\0"                         /* Manufacturer */ \
+  "LGE\0"                         /* Manufacturer */ \
   "Lg G7 ThinQ\0"                     /* Product Name */ \
   "None\0"                           /* Version */      \
   "                    \0"           /* 20 character buffer */
 
 #define TYPE2_STRINGS                                     \
-  "Google\0"                         /* Manufacturer */   \
+  "LGE\0"                         /* Manufacturer */   \
   "Lg G7 ThinQ\0"                     /* Product Name */   \
   "R0\0"                             /* Version */        \
   "Serial Not Set\0"                 /* Serial */         \

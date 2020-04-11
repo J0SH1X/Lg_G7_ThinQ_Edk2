@@ -218,7 +218,7 @@ READ_LOCK_STATUS   = TRUE
   INF LgG7ThinQPkg/Drivers/LogoDxe/LogoDxe.inf
 
   #
-  #Binary DXE drivers from Lenovo MSM8998
+  #Binary DXE drivers from LGE SDM845
   #
 
   FILE DRIVER = 7a32bd23-f735-4f57-aa1a-447d2fe3be0d {
@@ -232,11 +232,11 @@ READ_LOCK_STATUS   = TRUE
     SECTION UI = "UFSDxe"
   }
 
-  #FILE DRIVER = 2a7b4bef-80cd-49e1-b473-374ba4d673fc {
-  #  SECTION DXE_DEPEX = LgG7ThinQPkg/Binary/SPMI/SPMI.depex
-  #  SECTION PE32 = LgG7ThinQPkg/Binary/SPMI/SPMI.efi
-  #  SECTION UI = "SPMI"
-  #}
+ # FILE DRIVER = 2a7b4bef-80cd-49e1-b473-374ba4d673fc {
+ #   SECTION DXE_DEPEX = LgG7ThinQPkg/Binary/SPMI/SPMI.depex
+ #   SECTION PE32 = LgG7ThinQPkg/Binary/SPMI/SPMI.efi
+ #   SECTION UI = "SPMI"
+ # }
 
   FILE DRIVER = 04de8591-d2b3-4077-bbbe-b12070094eb6 {
     SECTION DXE_DEPEX = LgG7ThinQPkg/Binary/I2C/I2C.depex

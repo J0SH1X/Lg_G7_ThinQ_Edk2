@@ -24,6 +24,7 @@
   EmbeddedPkg/EmbeddedPkg.dec
   MdePkg/MdePkg.dec
   MdeModulePkg/MdeModulePkg.dec
+  LgG7ThinQPkg/LgG7ThinQPkg.dec
 
 [LibraryClasses]
   ArmLib
